@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+int main()
+{
+    
+    printf("     ／|＼     ／|＼    \r\n");
+    printf("  ／                ＼ \r\n");
+    printf(" |    ●          ●    |\r\n");
+    printf(" |  ○              ○  |\r\n");
+    printf("  ＼        ω      ／  \r\n");
+    printf("     ＼ ________／     \r\n");
+    printf("\n                       \n");
+    
+    return 0;
+}
